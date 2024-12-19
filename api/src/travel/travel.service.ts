@@ -12,4 +12,4 @@ export const findOne = async (id: number): Promise<ITravel> => {
   return rows[0];
 };
 
-export const create = async (travelDTO): Promise<ITravel> => {};
+// export const create = async (travelDTO): Promise<ITravel> => {};

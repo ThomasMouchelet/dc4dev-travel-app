@@ -1,4 +1,4 @@
-# TODO
+# TODO V1
 
 ### back
 
@@ -18,3 +18,16 @@ All CRUD actions with array travelList
 ### BONUS
 
 - Front Update (connect with api)
+
+# TODO V2
+
+### back
+
+- CRDU TRAVEL WITH BDD
+- CRDU USER WITH BDD
+
+User model {
+id: Number,
+username: string
+password: string
+}
